@@ -1,0 +1,3 @@
+C:/Users/AB/CLionProjects/CompilerParser/cmake-build-debug/CMakeFiles/CompilerParser.dir
+C:/Users/AB/CLionProjects/CompilerParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AB/CLionProjects/CompilerParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
